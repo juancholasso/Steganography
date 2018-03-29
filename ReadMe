@@ -1,3 +1,23 @@
-The size of file 374 MB due to the images
+The size of file 171 MB due to the images
 The images are compressed in a zip file
-You must read the file of instructions
+The IDE used was Eclipse
+
+Instructions
+-The images are compressed in several rar files, you must unzip the files
+
+1. Mix image
+- Click on Open image
+- Select PPM image and wait
+- Click on Open large image
+- Select PPM image and wait
+- Write the number of times larger than the small image (α) and wait
+- Click on Mix
+- Write name of new file
+- Click, start and wait
+- You go to folder and open image with HoneyView
+
+
+
+2. Detector
+- Click on Detector
+- Select PPM image and wait
